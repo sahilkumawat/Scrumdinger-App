@@ -13,6 +13,6 @@ Scrumdinger is a powerful iOS application designed to streamline and enhance you
 - **Customization:** Tailor Scrumdinger to fit your team's workflow with customizable settings.
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 14 15](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/19658a2b-6fbf-4087-ba85-b89fc4dc7a7d)
+![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 14 15](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/c32d904b-5a92-49ba-a479-a9719f11c1f8)
 
 
