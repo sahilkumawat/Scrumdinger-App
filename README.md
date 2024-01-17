@@ -2,7 +2,7 @@
 
 ## Overview
 
-Scrumdinger is a powerful iOS application designed to streamline and enhance your Scrum meetings. It provides a user-friendly interface to manage your sprints, track progress, and facilitate effective communication within your development team.
+Scrumdinger is a powerful iOS application designed to streamline and/Users/diwakarkumawat/Desktop/Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00.14.15.png enhance your Scrum meetings. It provides a user-friendly interface to manage your sprints, track progress, and facilitate effective communication within your development team.
 
 ## Features
 
