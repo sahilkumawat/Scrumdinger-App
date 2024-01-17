@@ -15,10 +15,12 @@ Scrumdinger is a powerful iOS application designed to streamline and enhance you
 
 | Daily Scrums                                          | Speaker View                                           | Meeting View                                           |
 | :----------------------------------------------------:|:------------------------------------------------------:|:-------------------------------------------------------:|
-| ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 14 15](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/724bd418-00b3-4959-8aec-a9fdb7698a19)
- | ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 15 13](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/608c5039-1d1d-437c-82b7-846658ce0680)
- | ![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 15 22](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/26e3be48-925e-45ab-bbcd-87a80cc58166)
- |
+| ![Daily Scrums](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/724bd418-00b3-4959-8aec-a9fdb7698a19)
+ | ![Speaker View](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/608c5039-1d1d-437c-82b7-846658ce0680)
+ | ![Meeting View](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/26e3be48-925e-45ab-bbcd-87a80cc58166)
+ 
+ 
+
 
 
 
