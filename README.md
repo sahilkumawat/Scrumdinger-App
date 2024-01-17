@@ -12,6 +12,7 @@ Scrumdinger is a powerful iOS application designed to streamline and enhance you
 - **Notifications:** Stay informed with timely notifications for upcoming meetings and deadlines.
 - **Customization:** Tailor Scrumdinger to fit your team's workflow with customizable settings.
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-01-17 at 00 14 15](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/696eb6a5-2934-41cb-96ac-70325c523d6a)
+
+![](https://github.com/sahilkumawat/Scrumdinger-app/assets/73757457/696eb6a5-2934-41cb-96ac-70325c523d6a | width=100)
 
 
